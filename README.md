@@ -11,12 +11,12 @@
 
 <br />
 ## My GitHub Stats
-![Github stats](https://github-readme-stats.vercel.app/api?username=k28611-nits)
+# ![Github stats](https://github-readme-stats.vercel.app/api?username=k28611-nits)
 ### ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k28611-nits&theme=tokyonight)
 ## My Projects
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=k28611-nits&repo=Airline-management-system)
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=k28611-nits&repo=webchat)
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=k28611-nits&repo=videochat-webapp)
+# ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=k28611-nits&repo=Airline-management-system)
+# ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=k28611-nits&repo=webchat)
+# ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=k28611-nits&repo=videochat-webapp)
 
 <!--
 **k28611-nits/k28611-nits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
