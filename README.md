@@ -1,7 +1,7 @@
 ### Hi there 👋 I am Kushagra Kumar.
 ### ![](https://visitor-badge.laobi.icu/badge?page_id=k28611-nits.k28611-nits)
-<br />
-## ✉️ Find me on:
+
+### ✉️ Find me on:
 
 
 <p align="center">
@@ -9,7 +9,6 @@
  <a href="mailto:kushagrakr_ug@ece.nits.ac.in"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
 
-<br />
 ### My GitHub Stats
 ### ![Github stats](https://github-readme-stats.vercel.app/api?username=k28611-nits)
 ### ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k28611-nits&theme=tokyonight)
