@@ -1,0 +1,6 @@
+# Never commit private documents to this public, search-indexed repo.
+resume.pdf
+*.pdf
+
+# Local tooling — not part of the profile.
+.claude/

@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 830 140" role="img" aria-label="Player stats: 3-plus years building backend software, 500-plus problems solved on LeetCode, 5 Employee-of-the-Month awards, and an 8.59 CGPA in B.Tech ECE at NIT Silchar.">
+  <style>
+    :root { --accent: #0d9488; --label: #6e7781; --divider: #d0d7de; }
+    @media (prefers-color-scheme: dark) {
+      :root { --accent: #2dd4bf; --label: #768390; --divider: #30363d; }
+    }
+  </style>
+
+  <!-- pixel corner brackets -->
+  <g fill="var(--accent)">
+    <rect x="4" y="4" width="14" height="3"/><rect x="4" y="4" width="3" height="14"/>
+    <rect x="812" y="4" width="14" height="3"/><rect x="823" y="4" width="3" height="14"/>
+    <rect x="4" y="133" width="14" height="3"/><rect x="4" y="122" width="3" height="14"/>
+    <rect x="812" y="133" width="14" height="3"/><rect x="823" y="122" width="3" height="14"/>
+  </g>
+
+  <text x="24" y="27" font-family="'Courier New',monospace" font-size="13" font-weight="700" letter-spacing="3" fill="var(--accent)"><tspan>&#9658;</tspan> PLAYER STATS</text>
+  <rect x="24" y="33" width="152" height="2" fill="var(--accent)" opacity="0.4"/>
+
+  <!-- pixel dividers -->
+  <g fill="var(--divider)">
+    <rect x="207" y="52" width="2.5" height="8"/><rect x="207" y="66" width="2.5" height="8"/><rect x="207" y="80" width="2.5" height="8"/><rect x="207" y="94" width="2.5" height="8"/>
+    <rect x="414" y="52" width="2.5" height="8"/><rect x="414" y="66" width="2.5" height="8"/><rect x="414" y="80" width="2.5" height="8"/><rect x="414" y="94" width="2.5" height="8"/>
+    <rect x="621" y="52" width="2.5" height="8"/><rect x="621" y="66" width="2.5" height="8"/><rect x="621" y="80" width="2.5" height="8"/><rect x="621" y="94" width="2.5" height="8"/>
+  </g>
+
+  <text x="103.75" y="80" text-anchor="middle" font-family="'Courier New',monospace" font-size="30" font-weight="700" fill="var(--accent)">3+</text>
+  <text x="103.75" y="102" text-anchor="middle" font-family="'Courier New',monospace" font-size="11.5" fill="var(--label)">years building</text>
+  <text x="103.75" y="117" text-anchor="middle" font-family="'Courier New',monospace" font-size="11.5" fill="var(--label)">backend software</text>
+
+  <text x="311.25" y="80" text-anchor="middle" font-family="'Courier New',monospace" font-size="30" font-weight="700" fill="var(--accent)">500+</text>
+  <text x="311.25" y="102" text-anchor="middle" font-family="'Courier New',monospace" font-size="11.5" fill="var(--label)">problems solved</text>
+  <text x="311.25" y="117" text-anchor="middle" font-family="'Courier New',monospace" font-size="11.5" fill="var(--label)">on LeetCode</text>
+
+  <text x="518.75" y="80" text-anchor="middle" font-family="'Courier New',monospace" font-size="30" font-weight="700" fill="var(--accent)">5&#215;</text>
+  <text x="518.75" y="102" text-anchor="middle" font-family="'Courier New',monospace" font-size="11.5" fill="var(--label)">Employee-of-the-</text>
+  <text x="518.75" y="117" text-anchor="middle" font-family="'Courier New',monospace" font-size="11.5" fill="var(--label)">Month awards</text>
+
+  <text x="726.25" y="80" text-anchor="middle" font-family="'Courier New',monospace" font-size="30" font-weight="700" fill="var(--accent)">8.59</text>
+  <text x="726.25" y="102" text-anchor="middle" font-family="'Courier New',monospace" font-size="11.5" fill="var(--label)">CGPA &#183; B.Tech ECE</text>
+  <text x="726.25" y="117" text-anchor="middle" font-family="'Courier New',monospace" font-size="11.5" fill="var(--label)">NIT Silchar</text>
+
+  <!-- blinking cursor: sits AFTER the title text (ends ~x175) -->
+  <rect x="182" y="16" width="8" height="13" fill="var(--accent)">
+    <animate attributeName="opacity" values="1;0" dur="1.1s" calcMode="discrete" keyTimes="0;0.5" repeatCount="indefinite"/>
+  </rect>
+</svg>
